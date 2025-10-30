@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://ffcs.codechefvit.com" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://ffcs.codechefvit.com/logo_ffcs/icon-256x256.webp" alt="FFCS-inator" width="200" />
